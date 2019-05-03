@@ -1,0 +1,8 @@
+pandas
+numpy
+python-slugify
+dill
+sklearn
+sklearn_pandas
+sklearn_porter
+imblearn
